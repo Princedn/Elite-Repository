@@ -9,6 +9,10 @@ body
     font-size: 80px;
     margin-left: 40px;
 }
+#footer
+{
+    padding: 40px;
+}
 .cards
 {
     width: 49%;
